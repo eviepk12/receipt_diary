@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: xx-large;
+    font-family: Georgia, Garamond, sans-serif;
+}
+
+.main-container {
+    display: grid;
+    place-items: center;
+    margin: 5vw;
+    text-align: justify;
+}
+
+img {
+    width: 50%;
+    /* margin-bottom: 10%; */
+}
+
+p {
+    margin: 10%;
+}
+
+.images-container {
+    display: grid;
+    place-items: center;
+    column-gap: 50%;
+}
